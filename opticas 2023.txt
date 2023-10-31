@@ -1,0 +1,17 @@
+fecha: primera de noviembre
+200 abonados por distrito
+5 distritos
+
+1 edificio de cableado estructurado
+packet tracer y dwg
+
+
+
+
+radiomobile
+sistema de radiocom audio voz y y video 
+provincia SANTO DOMINGO
+5 sucursales 
+1 central de 5 pisos
+backup FO
+
